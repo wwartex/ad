@@ -1,0 +1,19 @@
+{
+    "company": [
+        {
+            "name":"company1",
+            "budget":"no value"
+        },
+        {
+            "name":"company2",
+            "budget":"no value"
+        },
+        {
+            "name":"company3",
+            "budget":"no value"
+        }
+        
+
+    ]
+
+}
